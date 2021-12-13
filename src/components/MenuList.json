@@ -1,0 +1,77 @@
+[
+    {
+        "id":"V001",
+        "name" : "Paneer Tikka",
+        "price" : 80
+    },
+    {
+        "id":"V002",
+        "name" : "Dal Makhani",
+        "price" : 60
+    },
+    {
+        "id":"V003",
+        "name" : "Jeera Rice",
+        "price" : 70
+    },
+    {
+        "id":"V004",
+        "name" : "Gobi Manchurian",
+        "price" : 100
+    },
+    {
+        "id":"V005",
+        "name" : "Veg Biryani",
+        "price" : 120
+    },
+    {
+        "id":"V006",
+        "name" : "Chaat",
+        "price" : 50
+    },
+    {
+        "id":"NV001",
+        "name" : "Mutton Soup",
+        "price" : 150
+    },
+    {
+        "id":"NV009",
+        "name" : "Chicken Tikka",
+        "price" : 100
+    },
+    {
+        "id":"NV002",
+        "name" : "Chicken Tandoori",
+        "price" : 240
+    },
+    {
+        "id":"NV003",
+        "name" : "Mughalai Biryani",
+        "price" : 180
+    },
+    {
+        "id":"NV004",
+        "name" : "Butter Chicken",
+        "price" : 120
+    },
+    {
+        "id":"NV005",
+        "name" : "Dum Biryani",
+        "price" : 180
+    },
+    {
+        "id":"NV006",
+        "name" : "Prawn rice",
+        "price" : 120
+    },
+    {
+        "id":"NV007",
+        "name" : "Fish Fry",
+        "price" : 85
+    },
+    {
+        "id":"NV008",
+        "name" : "Chicken Soup",
+        "price" : 60
+    }
+]

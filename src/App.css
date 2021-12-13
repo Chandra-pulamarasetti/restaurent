@@ -1,0 +1,31 @@
+.blocks {
+
+    width: 33%;
+    border: 1px;
+    background-color: bisque;
+    padding: 15px;
+    font-weight: 1000;
+    margin: 1px;
+    border-radius: 10px;
+}
+
+.Menublock {
+  width: 33%;
+  border: 1px;
+  float: left;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: 500;
+  margin: 1px;
+}
+
+.nonVegItemColor {
+  background-color: red;
+  color: red
+}
+
+.vegItemColor {
+  background-color: green;
+  color: green;
+}
